@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "home": "https://github.com/JobinReji/Smrc.git",
+  "home": "https://github.com/JobinReji/Smrc",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
